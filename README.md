@@ -10,7 +10,7 @@ Il faut que vous installiez tout ça sur votre ordinateur avant de pouvoir comme
 - git bash: https://git-scm.com/downloads
 
 ## Installer les dépendances
-Avant de partir le serveur, execute la commande `yarn` pour installer toutes les dépendances
+Avant de partir le serveur, execute la commande `yarn` (dans le répertoire du projet) (où il y a le fichier ReadMe) pour installer toutes les dépendances
 
 ## Partir le serveur
 Executez cette commande dans un terminal (dans le répertoire du projet) (où il y a le fichier ReadMe):
