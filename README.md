@@ -9,9 +9,12 @@ Il faut que vous installiez tout ça sur votre ordinateur avant de pouvoir comme
 - vscode: https://code.visualstudio.com/Download
 - git bash: https://git-scm.com/downloads
 
+## Installer les dépendances
+Avant de partir le serveur, execute la commande `yarn` pour installer toutes les dépendances
+
 ## Partir le serveur
-Executez cette commande dans un terminal (dans le répertoire du projet):
-`npm start`
+Executez cette commande dans un terminal (dans le répertoire du projet) (où il y a le fichier ReadMe):
+`yarn start`
 
 une page s'ouvrira automatiquement à `http://localhost:3000/`
 
