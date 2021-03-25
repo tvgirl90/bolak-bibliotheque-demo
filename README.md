@@ -18,6 +18,18 @@ Executez cette commande dans un terminal (dans le répertoire du projet) (où il
 
 une page s'ouvrira automatiquement à `http://localhost:3000/`
 
+## Rendre disponible tes changements sur Github
+Execute ces trois commandes (dans le répertoire du projet) (où il y a le fichier ReadMe):
+`git add *`
+`git commit -m "message indiquant ce que tu as modifié"`
+`git push`
+
+La commande git push te demandera de t'authentifier avant de télécharger les modifications sur Github!
+
+## Avoir les nouvelles modifications du Github
+Si quelqu'un d'autres modifie le projet et que tu veux avoir la nouvelle version sur ta machine, execute:
+`git pull`
+
 ## Run les tests
 Exécutez la commande
 `npm test`
