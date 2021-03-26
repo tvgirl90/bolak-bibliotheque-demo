@@ -10,7 +10,7 @@ Il faut que vous installiez tout ça sur votre ordinateur avant de pouvoir comme
 - git bash: https://git-scm.com/downloads
 
 ## Installer les dépendances
-Avant de partir le serveur, execute la commande `yarn` (dans le répertoire du projet) (où il y a le fichier ReadMe) pour installer toutes les dépendances
+Avant de partir le serveur, execute la commande `yarn` (dans le répertoire du projet) (où il y a le fichier ReadMe) avec un terminal pour installer toutes les dépendances
 
 ## Partir le serveur
 Executez cette commande dans un terminal (dans le répertoire du projet) (où il y a le fichier ReadMe):
@@ -19,7 +19,7 @@ Executez cette commande dans un terminal (dans le répertoire du projet) (où il
 une page s'ouvrira automatiquement à `http://localhost:3000/`
 
 ## Rendre disponible tes changements sur Github
-Execute ces trois commandes (dans le répertoire du projet) (où il y a le fichier ReadMe):
+Execute ces trois commandes avec un terminal (dans le répertoire du projet) (où il y a le fichier ReadMe):
 `git add *`
 `git commit -m "message indiquant ce que tu as modifié"`
 `git push`
@@ -27,11 +27,11 @@ Execute ces trois commandes (dans le répertoire du projet) (où il y a le fichi
 La commande git push te demandera de t'authentifier avant de télécharger les modifications sur Github!
 
 ## Avoir les nouvelles modifications du Github
-Si quelqu'un d'autres modifie le projet et que tu veux avoir la nouvelle version sur ta machine, execute:
+Si quelqu'un d'autres modifie le projet et que tu veux avoir la nouvelle version sur ta machine, execute avec un terminal:
 `git pull`
 
 ## Run les tests
-Exécutez la commande
+Exécutez la commande avec un terminal
 `npm test`
 pour rouler les tests!
 
